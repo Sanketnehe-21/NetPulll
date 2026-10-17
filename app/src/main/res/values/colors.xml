@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cream_bg">#FBF8F2</color>
+    <color name="cream_surface">#FFFFFF</color>
+    <color name="cream_border">#E6DFD3</color>
+    <color name="cream_accent">#CBB279</color>
+    <color name="cream_accent_soft">#F2EDE2</color>
+    <color name="cream_dark">#1E1C19</color>
+    <color name="text_primary">#1D1B18</color>
+    <color name="text_secondary">#7A746B</color>
+    <color name="text_light">#FAF7F2</color>
+    <color name="white">#FFFFFF</color>
+    <color name="status_green">#2E7D32</color>
+    <color name="status_red">#D32F2F</color>
+    <color name="status_amber">#F57C00</color>
+    <color name="status_blue">#1976D2</color>
+</resources>

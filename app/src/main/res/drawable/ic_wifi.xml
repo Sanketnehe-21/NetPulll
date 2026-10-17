@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Wi-Fi Vector Icon -->
+    <path
+        android:fillColor="#CBB279"
+        android:pathData="M12,4 C7.31,4 3.07,5.9 0,8.98 L12,21 L24,8.98 C20.93,5.9 16.69,4 12,4 Z M12,8.5 C15.19,8.5 18.08,9.79 20.21,11.89 L12,19.22 L3.79,11.89 C5.92,9.79 8.81,8.5 12,8.5 Z" />
+</vector>

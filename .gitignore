@@ -1,0 +1,23 @@
+# Android Studio / Gradle
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/app/build
+captures/
+.externalNativeBuild
+.cxx
+
+# Built outputs
+*.apk
+*.aab
+output-metadata.json
+
+# Logs & temporary files
+*.log
+scratch/
+READ_ME_FIRST.md
+NetPull Main Screen.html
+NetPull Main Screen.pdf
